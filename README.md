@@ -16,7 +16,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./img/Screenshot.png)
+![](./img/Screenshoot%20Mobile.png)
 
 ### Links
 
